@@ -22,7 +22,3 @@
 </div>
  
   ##
-  
- <div>
-  ![Snake animation](https://github.com/matheus-0063/matheus-0063/blob/output/github-contribution-grid-snake.svg)
- </div>
