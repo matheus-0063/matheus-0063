@@ -1,8 +1,8 @@
 ### Olá, sou um pequeno mecânico, na transição para ser um enorme Programador!
 
 - 🌍 Hello, World
-- 🔭 Futuro Ciêntista de dados
-- 🌱 Estudando Python
+- 🔭 Futuro Desenvolvedor Back-End
+- 🌱 Estudando C#
 - 📫 Meu email: matheus.fer.0063@gmail.com
 - ⚡ "Que pena, cera de ouvido."
 
