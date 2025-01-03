@@ -1,10 +1,8 @@
-### Olá, sou um pequeno mecânico, na transição para ser um enorme Programador!
+### Estudante de Engenharia de Software na PUC Minas e desenvolvedor .NET na MEI Digital!
 
 - 🌍 Hello, World
-- 🔭 Futuro Desenvolvedor Back-End
-- 🌱 Estudando C#
+- 🔭 Desenvolvedor Back-End
 - 📫 Meu email: matheus.fer.0063@gmail.com
-- ⚡ "Que pena, cera de ouvido."
 
  <div>
   <a href="https://github.com/matheus-0063">
